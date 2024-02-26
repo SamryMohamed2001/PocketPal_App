@@ -1,4 +1,4 @@
-# imagine_cup_ui
+# SDGP SE - 07
 
 A new Flutter project.
 
