@@ -89,13 +89,13 @@ BEGIN
     BEGIN
         BLOCK "040904e4"
         BEGIN
-            VALUE "CompanyName", "com.example" "\0"
-            VALUE "FileDescription", "imagine_cup_ui" "\0"
+            VALUE "CompanyName", "com.rivaan.allen" "\0"
+            VALUE "FileDescription", "allen" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
-            VALUE "InternalName", "imagine_cup_ui" "\0"
-            VALUE "LegalCopyright", "Copyright (C) 2024 com.example. All rights reserved." "\0"
-            VALUE "OriginalFilename", "imagine_cup_ui.exe" "\0"
-            VALUE "ProductName", "imagine_cup_ui" "\0"
+            VALUE "InternalName", "allen" "\0"
+            VALUE "LegalCopyright", "Copyright (C) 2023 com.rivaan.allen. All rights reserved." "\0"
+            VALUE "OriginalFilename", "allen.exe" "\0"
+            VALUE "ProductName", "allen" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END
