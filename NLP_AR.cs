@@ -34,7 +34,6 @@ public class NLP_AR_Controller : MonoBehaviour
         process.Start();
         string result = process.StandardOutput.ReadToEnd();
         process.WaitForExit();
-
         return result;
     }
 }
