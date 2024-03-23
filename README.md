@@ -5,7 +5,8 @@ SOCAR - AR Chatbot for Individuals with Social Anxiety Using AI
 ![2](https://github.com/SamryMohamed2001/SDGP-SE-07/assets/118212755/f6059403-b30c-4e59-ab80-30aa25c0004e)
 
 
-Project Description:
+
+
 SOCAR is an AI-powered chatbot that employs augmented reality technology to help individuals suffering from social anxiety. It functions as a virtual assistant, addressing the communication challenges that people with social anxiety may experience when interacting with others. In addition to providing a supportive and accommodating virtual environment, SOCAR is designed to interact with users in a friendly and approachable manner, making them feel like they're talking to a friend. Users can always text SOCAR to ask for advice, engage in fun games, or simply chat about their day.
 
 Table of Contents:
