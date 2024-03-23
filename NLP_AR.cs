@@ -30,7 +30,7 @@ public class NLP_AR_Controller : MonoBehaviour
                 CreateNoWindow = true
             }
         };
-        
+
         process.Start();
         string result = process.StandardOutput.ReadToEnd();
         process.WaitForExit();
