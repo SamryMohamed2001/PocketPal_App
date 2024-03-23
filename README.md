@@ -18,7 +18,7 @@ Table of Contents:
 - Steps to install and run SOCAR
 
 3. How to Use SOCAR
-- User Guide
+- User Guide (Linked here)
 
 4. Technology Stack
 - Technologies and tools used in the development of SOCAR
@@ -32,15 +32,16 @@ Table of Contents:
 7. License
 - MIT License
 
-Getting Started:
+Getting Started!
+
 Before getting started with SOCAR, you need to ensure that you have the following prerequisites:
-- A smartphone or tablet running Android or iOS
+- A smartphone or tablet running Android or iOS With a back camera.
 - Internet connectivity
-- A compatible AR app installed on your device
+- SOCAR Application installed to your mobile application.
 
 Installation:
 To install and run SOCAR, follow the steps below:
-1. Install a compatible AR app on your device.
+1. Install a compatible SOCAR app on your device.
 2. Clone the SOCAR repository from GitHub.
 3. Navigate to the cloned repository in your terminal.
 4. Run the command "npm install" to install all the dependencies.
@@ -48,7 +49,7 @@ To install and run SOCAR, follow the steps below:
 
 How to Use SOCAR:
 To use SOCAR, follow the steps below:
-1. Launch the AR app on your device.
+1. Launch the SOCAR app on your device.
 2. Point your device's camera at a flat surface to create an AR environment.
 3. Launch SOCAR by tapping on the app icon.
 4. Follow the on-screen instructions to interact with SOCAR.
@@ -58,13 +59,13 @@ SOCAR was developed using the following technologies and tools:
 - Python
 - Core UI library
 - Tensor Flow
-- GPT-3 API
-- DALL-E
+- GPT-3.5 Turbo API
 - Visual Studio Code
+- Android Studio
 
 Contributing:
 SOCAR was developed by the SE-07 team as a project for BEng (Hons) in Software Engineering at the Informatics Institute of Technology. The team members are:
-- Mohamed Rafeek Kabreeth Ahmar (Team Leader)
+- Mohamed Rafeek Kabreeth Ahmar 
 - Hassan Nazeer Latiff
 - Maryam Sarah Rahim
 - Aaysha Fazal Mohamed
