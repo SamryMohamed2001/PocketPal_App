@@ -60,6 +60,9 @@ SOCAR was developed using the following technologies and tools:
 - GPT-3.5 Turbo API
 - Visual Studio Code
 - Android Studio
+- Unity
+- UnityHub
+- Whisper API
 
 Contributing:
 SOCAR was developed by the SE-07 team as a project for BEng (Hons) in Software Engineering at the Informatics Institute of Technology. The team members are:
