@@ -5,7 +5,7 @@
 
 
 
-SOCAR is an AI-powered chatbot that employs augmented reality technology to help individuals suffering from social anxiety. It functions as a virtual assistant, addressing the communication challenges that people with social anxiety may experience when interacting with others. In addition to providing a supportive and accommodating virtual environment, SOCAR is designed to interact with users in a friendly and approachable manner, making them feel like they're talking to a friend. Users can always text SOCAR to ask for advice, engage in fun games, or simply chat about their day.
+SOCAR is a chatbot powered by AI and augmented reality technology, which aims to assist individuals suffering from social anxiety. It acts as a virtual assistant that helps users overcome communication challenges that may arise when interacting with others. SOCAR creates a supportive environment for users to interact with, while also addressing their social anxiety. It is designed to interact with users in a friendly and approachable manner, making them feel comfortable and at ease. Users can text SOCAR for advice, engage in fun games, or simply chat about their day.
 
 Table of Contents:
 
