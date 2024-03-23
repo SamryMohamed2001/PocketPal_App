@@ -1,6 +1,6 @@
 # SDGP SE - 07
 
-SOCAR - AR Chatbot for Individuals with Social Anxiety Using AI
+##SOCAR - AR Chatbot for Individuals with Social Anxiety Using AI
 
 ![2](https://github.com/SamryMohamed2001/SDGP-SE-07/assets/118212755/f6059403-b30c-4e59-ab80-30aa25c0004e)
 
