@@ -10,25 +10,12 @@ SOCAR is a chatbot powered by AI and augmented reality technology, which aims to
 Table of Contents:
 
 1. Getting Started
-- Prerequisites
-
 2. Installation
-- Steps to install and run SOCAR
-
-3. How to Use SOCAR
-- User Guide (Linked here)
-
+3. How to Use SOCAR - User Guide (Linked here)
 4. Technology Stack
-- Technologies and tools used in the development of SOCAR
-
 5. Contributing
-- List of contributors and their GitHub profiles
-
 6. Acknowledgements
-- List of sources that helped in the development of SOCAR
-
 7. License
-- MIT License
 
 Getting Started!
 
