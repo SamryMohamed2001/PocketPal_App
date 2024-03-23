@@ -9,7 +9,7 @@ public class NLP_AR_Controller : MonoBehaviour
 
     void Start()
     {
-        // Call the Python script 
+        // Call the Python script
         string inputText = "Your input text goes here";
         string result = RunPythonScript("nlp_processing.py", inputText);
 
@@ -30,7 +30,7 @@ public class NLP_AR_Controller : MonoBehaviour
                 CreateNoWindow = true
             }
         };
-
+        
         process.Start();
         string result = process.StandardOutput.ReadToEnd();
         process.WaitForExit();
