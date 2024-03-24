@@ -245,8 +245,8 @@ class SecondScreen extends StatelessWidget {
                     SizedBox(height: 20,),
                     InkWell(
                       onTap: () {
-                         Navigator.push(
-                           ctxt,
+                        Navigator.push(
+                          ctxt,
                             MaterialPageRoute(builder: (context) => FirstScreen()),
                     );
                   },
