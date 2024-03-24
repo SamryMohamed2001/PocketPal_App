@@ -52,7 +52,8 @@ SOCAR was developed using the following technologies and tools:
 - Whisper API
 
 Contributing:
-SOCAR was developed by the SE-07 team as a project for BEng (Hons) in Software Engineering at the Informatics Institute of Technology. The team members are:
+SOCAR was developed by the SE-07 team as a project for BEng (Hons) in Software Engineering at the Informatics Institute of Technology. 
+The team members are:
 - Mohamed Rafeek Kabreeth Ahmar 
 - Hassan Nazeer Latiff
 - Maryam Sarah Rahim
