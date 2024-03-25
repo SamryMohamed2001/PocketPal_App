@@ -74,7 +74,6 @@ public class GameController : MonoBehaviour
 
     void Start()
     {
-        //questionTypeDropdown.value = -1;
 
         timerScript = new SinglePlayerTimer();
         timerScript.StopTimer();
@@ -384,7 +383,6 @@ public class GameController : MonoBehaviour
                     if (selectedWord[i] == guessedLetter)
                     {
                         playerword.text = ReplaceCharInWord(playerword.text, guessedLetter, i);
-                        //player1word.text = ReplaceCharInWord(player1word.text, guessedLetter, i);
                         correctGuess1 = true;
                         Debug.Log("Player 2 got a point");
                     }
