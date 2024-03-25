@@ -1,0 +1,336 @@
+How many colors are there in the rainbow according to traditional Western science?
+
+5
+6
+7*
+8
+-->What is the capital of France?
+
+London
+Paris*
+Berlin
+Rome
+-->Who painted the Mona Lisa?
+
+Leonardo da Vinci*
+Pablo Picasso
+Vincent van Gogh
+Claude Monet
+-->What is the traditional wedding anniversary gift for the 50th year?
+
+Silver
+Gold
+Diamond*
+Ruby
+-->What is the name of the world's most famous landmark clock tower?
+
+Big Ben*
+Leaning Tower of Pisa
+Eiffel Tower
+Statue of Liberty
+-->What is the fear of snakes called?
+
+Arachnophobia
+Claustrophobia
+Ophidiophobia*
+Acrophobia 
+-->What fictional country is home to characters like Mario and Luigi?
+
+Hyrule
+Narnia
+Wonderland
+Mushroom Kingdom*
+-->What is the chemical element that makes up most of the Earth's crust?
+
+Oxygen
+Iron
+Silicon*
+Carbon
+-->What fictional detective is known for having a sidekick named Dr. Watson?
+
+Sherlock Holmes*
+Hercule Poirot
+Miss Marple
+Nancy Drew
+-->What fictional detective is known for wearing a deerstalker hat and carrying a magnifying glass?
+
+Sherlock Holmes*
+Hercule Poirot
+Miss Marple
+Columbo
+-->Which country is famous for its flamenco dancing and tapas?
+
+France
+Italy
+Spain*
+Greece
+-->What is the baby of a kangaroo called?
+
+Joey*
+Chick
+Pup
+Calf
+-->What is the world's largest ocean?
+
+Atlantic Ocean
+Pacific Ocean*
+Indian Ocean
+Arctic Ocean
+-->What nursery rhyme features the characters Humpty Dumpty?
+
+Twinkle, Twinkle Little Star
+Hey Diddle Diddle
+Humpty Dumpty*
+Baa Baa Black Sheep
+-->What flightless bird is known for its ability to mimic sounds?
+
+Penguin
+Emu
+Parrot*
+Ostrich
+-->What fictional creature is known for guarding hidden treasure?
+
+Dragon*
+Elf
+Unicorn
+Gnome
+-->What fast food chain is famous for its golden arches?
+
+Burger King
+Wendy's
+McDonald's*
+Subway
+-->What is the name of the tallest building in the world (as of March 2024)?
+
+Burj Khalifa*
+Shanghai Tower
+Petronas Towers
+Willis Tower
+-->What company created the iPhone?
+
+Samsung
+Google
+Apple*
+Microsoft
+-->What is the traditional birthday gift for a first birthday?
+
+Silver jewelry
+Cash
+Smash cake*
+Perfume
+-->What is the largest planet in our solar system?
+
+Earth
+Mars
+Jupiter*
+Saturn
+-->What is the name of the world's most famous active volcano?
+
+Mount Vesuvius*
+Mount Fuji
+Mount Kilimanjaro
+Mount Etna
+-->What fictional detective always wears a trench coat and fedora?
+
+Sherlock Holmes
+Hercule Poirot
+Dick Tracy*
+Miss Marple
+-->What is the national animal of the United States?
+
+Bald eagle*
+Grizzly bear
+American bison
+White-tailed deer
+-->What is the name for a group of zebras?
+
+A herd
+A pride
+A dazzle*
+A pack 
+-->What is the capital of Canada?
+
+New York City
+Toronto
+Ottawa*
+Vancouver
+-->What is the name of Mickey Mouse's pet dog?
+
+Pluto*
+Goofy
+Donald Duck
+Daisy Duck
+-->What board game involves rolling dice and moving around a track?
+
+Chess
+Checkers
+Candy Land*
+Scrabble
+-->What country gave the Statue of Liberty to the United States?
+
+Canada
+Mexico
+France*
+Germany
+-->What fictional character swings from buildings on webs?
+
+Batman
+Superman
+Spider-Man*
+Captain America
+-->What is the chemical element that makes up most of the air we breathe?
+
+Helium
+Nitrogen*
+Oxygen
+Carbon dioxide
+-->What is the traditional 25th wedding anniversary gift?
+
+Gold
+Silver
+Diamond
+Sapphire*
+-->What is the traditional celebratory food for winning a video game competition?
+
+Birthday cake
+Victory pizza*
+Fancy caviar
+Leftover broccoli
+-->What is the world's best-selling candy bar?
+
+Snickers*
+Kit Kat
+Hershey's bar
+M&M's
+-->What country invented the printing press?
+
+England
+China*
+Germany
+Italy
+-->What is the capital of Australia?
+
+Sydney
+Melbourne
+Canberra*
+Perth
+-->What is the chemical symbol for water?
+
+CO2
+O2
+N2
+H2O*
+-->What is the name of the world's most famous search engine?
+
+Bing
+Yahoo
+Google*
+DuckDuckGo
+-->What is the world's longest river?
+
+Nile River*
+Amazon River
+Yangtze River
+Mississippi River
+-->What is the closest star to Earth besides the Sun?
+
+Proxima Centauri*
+Sirius
+Betelgeuse
+Alpha Centauri
+-->What is the name of the world's largest desert?
+
+Sahara Desert*
+Gobi Desert
+Arabian Desert
+Australian Outback
+-->What is the capital of Germany?
+
+Munich
+Frankfurt
+Berlin*
+Hamburg
+-->What is the most abundant gas in the Earth's atmosphere?
+
+Oxygen
+Carbon dioxide
+Argon
+Nitrogen*
+-->What was the first country to put a satellite into space?
+
+United States
+Soviet Union*
+China
+France
+-->What is the most widely spoken language in the world (by native speakers)?
+
+English
+Mandarin Chinese*
+Spanish
+Hindi
+-->What is the largest continent on Earth?
+
+North America
+South America
+Africa
+Asia*
+-->What surprising food was once used as a form of currency in ancient Rome?
+
+Salt*
+Gold
+Peppercorns
+Olive oil
+-->What is the only muscle in your body that never gets tired?
+
+Bicep
+Heart*
+Calves
+Diaphragm
+-->What everyday object was originally invented as a way to help people gamble on horse races?
+
+Playing cards
+Dice
+The compass*
+The telescope
+-->What famous landmark can actually be heard before it can be seen?
+
+The Great Wall of China
+Adam's Peak
+Niagara Falls*
+The Colosseum
+-->What fictional character's name translates literally to "the burner of bridges" in Portuguese?
+
+Cinderella
+Pinocchio
+Captain Hook
+Cruella de Vil*
+-->What everyday condiment was once used as a weapon by the Romans?
+
+Ketchup
+Mustard*
+Mayonnaise
+Hot sauce
+-->What surprising animal has the strongest bite force relative to its size?
+
+Lion
+Great white shark
+Crocodile
+Tasmanian devil*
+-->What everyday invention was originally created to help with counting sheep?
+
+The abacus*
+The calculator
+The clock
+The compass
+-->What fear is technically called "turophobia"?
+
+Fear of heights
+Fear of public speaking
+Fear of spiders
+Fear of cheese*
+-->What country has the most islands in the world?
+
+Indonesia*
+Japan
+Greece
+Philippines
