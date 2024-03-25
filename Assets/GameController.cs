@@ -17,7 +17,6 @@ public class GameController : MonoBehaviour
     [SerializeField] private GameObject nextButton;
     [SerializeField] private GameObject resultButton;
     [SerializeField] private GameObject againButton;
-   // [SerializeField] private GameObject backButton;
     [SerializeField] private List<int> fearScores = new List<int>();
     [SerializeField] private List<int> avoidanceScores = new List<int>();
     [SerializeField] private RawImage lsasTestImage;
@@ -44,7 +43,6 @@ public class GameController : MonoBehaviour
         nextButton.SetActive(false);
         resultButton.SetActive(false);
         againButton.SetActive(false);
-       // backButton.SetActive(false);
 
         // Add LSAS items/questions
         AddLSASItems();
@@ -52,10 +50,7 @@ public class GameController : MonoBehaviour
 
     private void AddLSASItems()
     {
-        // Load LSAS items/questions from a data source or hard-code them
-        // For demonstration, let's hard-code a few questions
         lsasItems.Add(new LSASItem("Using a telephone in public"));
-       // backButton.SetActive(false);
         lsasItems.Add(new LSASItem("Participating in a small group activity"));
         lsasItems.Add(new LSASItem("Eating in public"));
         lsasItems.Add(new LSASItem("Drinking with others"));
@@ -97,15 +92,7 @@ public class GameController : MonoBehaviour
         avoidanceDropdown.SetActive(true);
         nextButton.SetActive(true);
 
-       /* // Check if there are more than one question
-        if (lsasItems.Count > 1)
-        {
-            backButton.SetActive(true);
-        }
-        else
-        {
-            backButton.SetActive(false);
-        }*/
+       
 
         // Add event listeners to dropdowns
         Dropdown fearDropdownComponent = fearDropdown.GetComponent<Dropdown>();
@@ -213,7 +200,6 @@ public class GameController : MonoBehaviour
         resultButton.SetActive(false);
         resultLabel.gameObject.SetActive(true);
         againButton.SetActive(true);
-        //backButton.SetActive(false);
     }
 
 
